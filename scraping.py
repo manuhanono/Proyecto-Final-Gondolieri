@@ -2,12 +2,15 @@ key = "AIzaSyAcsPgpQQIZ3i-BKm4tVvwTiK_B-oyqA8Q"
 buscador = "738b24c8b43fe4c05"
 #"https://cse.google.com/cse.js?cx=738b24c8b43fe4c05" es el buscador propio
 
+key_lara = "AIzaSyDi3hr5HGh8BDTU6k4KkD8JzgJYmkwJakE"
+buscador_lara="a4af4e05de6fb494a"
+
 import pandas as pd
 
 df = pd.read_excel("Ofertas Perfumeria Agosto.xlsx")
 
 from google_images_search import GoogleImagesSearch
-gis = GoogleImagesSearch(key, buscador)
+gis = GoogleImagesSearch(key_lara, buscador_lara)
 
 products = df["DESCRIPCIÓN"]
 paths = []
