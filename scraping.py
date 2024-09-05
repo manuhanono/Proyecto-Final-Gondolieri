@@ -14,7 +14,7 @@ gis = GoogleImagesSearch(key_lara, buscador_lara)
 
 products = df["DESCRIPCIÓN"]
 paths = []
-for product in products:
+for product in products[11:]:
     _search_params = {
         'q': product,
         'num': 1,
@@ -22,11 +22,11 @@ for product in products:
         'imgType': 'photo',
         'imgSize': 'medium',
         'safe': 'off',
-        'fileType': 'jpg|gif|png'
+        'fileType': 'jpg|png'
     }
 
     # this will search and download:
     gis.search(search_params=_search_params, path_to_dir='/Users/manu/Proyecto Final/Proyecto-Final-Gondolieri/imagenes_productos_scrapeo'
                ,  custom_image_name=product)
-    paths.append(f"imagenes_productos_scrapeo/{product}.jpg")
+    paths.append(f"imagenes_productos_scrapeo/{product}")
 
