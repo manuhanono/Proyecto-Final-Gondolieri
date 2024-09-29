@@ -1,0 +1,638 @@
+{
+    "id": 13,
+    "data": {
+      "image": "/data/upload/1/920dfb3e-20-S-OyM.jpeg"
+    },
+    "annotations": [
+      {
+        "id": 12,
+        "result": [
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 71.3436385255648,
+              "y": 11.209045854886986,
+              "width": 3.8049940546967917,
+              "height": 34.68459472078237,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER ANTIB P 12X89G/150ML - 7791293049519"
+              ]
+            },
+            "id": "AU4zrbl9Kw",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 60.285374554102255,
+              "y": 59.640583605247734,
+              "width": 4.756242568371,
+              "height": 32.56968040853955,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "7kxV7mBz4n",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.437574316290124,
+              "y": 10.363080129989854,
+              "width": 4.756242568370993,
+              "height": 36.16503473935235,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER BAM A V 12X89G/150ML - 7791293049564"
+              ]
+            },
+            "id": "d5UulfuCHr",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 30.439952437574313,
+              "y": 8.671148680195593,
+              "width": 5.707491082045188,
+              "height": 38.49144048281946,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557"
+              ]
+            },
+            "id": "gCy-VM5A4P",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 31.272294887039237,
+              "y": 63.65892079850911,
+              "width": 5.588585017835911,
+              "height": 33.415646133436674,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526"
+              ]
+            },
+            "id": "9ZMvwU8_XB",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 23.662306777645657,
+              "y": 7.613691524074179,
+              "width": 6.896551724137936,
+              "height": 39.12591477649231,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557"
+              ]
+            },
+            "id": "gm_i631pBe",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 36.26634958382876,
+              "y": 8.248165817747024,
+              "width": 5.588585017835911,
+              "height": 39.1259147764923,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557"
+              ]
+            },
+            "id": "r2_Zc_s3z6",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 41.85493460166468,
+              "y": 8.882640111419876,
+              "width": 5.350772889417364,
+              "height": 30.666257527521008,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557"
+              ]
+            },
+            "id": "mOsfmyRCKw",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 47.4435196195006,
+              "y": 9.305622973868442,
+              "width": 4.875148632580256,
+              "height": 36.16503473935235,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557"
+              ]
+            },
+            "id": "VLpXPhdiv7",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 57.55053507728894,
+              "y": 10.78606299243842,
+              "width": 4.518430439952439,
+              "height": 34.68459472078237,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER BAM A V 12X89G/150ML - 7791293049564"
+              ]
+            },
+            "id": "rBtdSwFLWG",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 62.30677764565993,
+              "y": 11.209045854886986,
+              "width": 4.2806183115338925,
+              "height": 28.551343215278173,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER BAM A V 12X89G/150ML - 7791293049564"
+              ]
+            },
+            "id": "5cp7LkFbRg",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 75.98097502972652,
+              "y": 11.209045854886986,
+              "width": 4.161712247324601,
+              "height": 27.70537749038104,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER ANTIB P 12X89G/150ML - 7791293049519"
+              ]
+            },
+            "id": "x7m4QX-zfA",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 66.70630202140309,
+              "y": 11.209045854886986,
+              "width": 3.9239001189060616,
+              "height": 33.627137564660956,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER ANTIB P 12X89G/150ML - 7791293049519"
+              ]
+            },
+            "id": "iCJUYGstJY",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 25.921521997621877,
+              "y": 63.23593793606054,
+              "width": 5.1129607609988135,
+              "height": 34.89608615200666,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526"
+              ]
+            },
+            "id": "gTS1MnEHAS",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 37.33650416171225,
+              "y": 63.23593793606054,
+              "width": 4.2806183115338925,
+              "height": 27.0709031967082,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526"
+              ]
+            },
+            "id": "rwHvtlNHRj",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 42.33055885850178,
+              "y": 61.966989348714854,
+              "width": 4.875148632580263,
+              "height": 31.723714683642406,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526"
+              ]
+            },
+            "id": "4dcV4ExkrL",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 47.681331747919145,
+              "y": 62.17848077993913,
+              "width": 4.161712247324608,
+              "height": 31.723714683642406,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526"
+              ]
+            },
+            "id": "omcMSM7lsI",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 52.19976218787158,
+              "y": 61.966989348714854,
+              "width": 3.686087990487522,
+              "height": 30.031783233848138,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "us0vLimcur",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 56.48038049940547,
+              "y": 60.90953219259343,
+              "width": 3.329369797859691,
+              "height": 31.723714683642413,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "iN7wj0N_2I",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 65.51724137931035,
+              "y": 59.00610931157488,
+              "width": 3.210463733650414,
+              "height": 31.512223252418146,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "oiJT5zZRvm",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 68.96551724137932,
+              "y": 59.42909217402346,
+              "width": 3.9239001189060616,
+              "height": 25.16748031568965,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "ToL-gppbq3",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 73.24613555291319,
+              "y": 58.37163501790204,
+              "width": 3.2104637336504283,
+              "height": 31.30073182119385,
+              "rotation": 0,
+              "rectanglelabels": [
+                "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571"
+              ]
+            },
+            "id": "q-HYJIAm0c",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 17.8359096313912,
+              "y": 5.498777211831351,
+              "width": 6.539833531510109,
+              "height": 41.02933765751085,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP GRANADA 72H 12X87G/150ML - 7791293048499"
+              ]
+            },
+            "id": "QV1066Wzna",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 11.414982164090368,
+              "y": 4.864302918158503,
+              "width": 6.658739595719382,
+              "height": 42.50977767608084,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP GRANADA 72H 12X87G/150ML - 7791293048499"
+              ]
+            },
+            "id": "t5Y7bbv-1V",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 4.756242568370987,
+              "y": 5.498777211831351,
+              "width": 6.777645659928656,
+              "height": 42.08679481363227,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP GRANADA 72H 12X87G/150ML - 7791293048499"
+              ]
+            },
+            "id": "NmFHB4V3Wo",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 1.6653345369377346e-16,
+              "y": 5.498777211831351,
+              "width": 5.231866825208086,
+              "height": 40.60635479506229,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP GRANADA 72H 12X87G/150ML - 7791293048499"
+              ]
+            },
+            "id": "RnvMnWBAhe",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 19.976218787158146,
+              "y": 62.812955073611974,
+              "width": 5.945303210463731,
+              "height": 36.16503473935235,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP PERA 72H 12X87G/150ML - 7791293048505"
+              ]
+            },
+            "id": "zSl2DmdlB0",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 14.030915576694412,
+              "y": 63.02444650483626,
+              "width": 6.183115338882281,
+              "height": 36.588017601800914,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP PERA 72H 12X87G/150ML - 7791293048505"
+              ]
+            },
+            "id": "VnO2qCVWBK",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 7.8478002378121285,
+              "y": 62.17848077993913,
+              "width": 6.420927467300832,
+              "height": 37.22249189547376,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP PERA 72H 12X87G/150ML - 7791293048505"
+              ]
+            },
+            "id": "_yKIJkXuxu",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          },
+          {
+            "original_width": 1599,
+            "original_height": 899,
+            "image_rotation": 0,
+            "value": {
+              "x": 2.3781212841854935,
+              "y": 70.3911996286004,
+              "width": 5.826397146254458,
+              "height": 29.608800371399596,
+              "rotation": 0,
+              "rectanglelabels": [
+                "DOVE DEO AER AP PERA 72H 12X87G/150ML - 7791293048505"
+              ]
+            },
+            "id": "htqxsOE1rt",
+            "from_name": "label",
+            "to_name": "image",
+            "type": "rectanglelabels",
+            "origin": "manual"
+          }
+        ],
+        "created_username": " lbauerberg@itba.edu.ar, 1",
+        "created_ago": "1 week, 2 days",
+        "completed_by": {
+          "id": 1,
+          "first_name": "",
+          "last_name": "",
+          "avatar": null,
+          "email": "lbauerberg@itba.edu.ar",
+          "initials": "lb"
+        },
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2024-09-20T14:45:04.995504Z",
+        "updated_at": "2024-09-23T04:31:37.981669Z",
+        "draft_created_at": null,
+        "lead_time": 323.899,
+        "import_id": null,
+        "last_action": null,
+        "task": 13,
+        "project": 1,
+        "updated_by": 1,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "predictions": []
+  }
