@@ -1,0 +1,137 @@
+"29-MJJ-.jpeg252600": {
+    "filename": "29-MJJ-.jpeg",
+    "size": 252600,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 417,
+          "y": 182,
+          "width": 220,
+          "height": 166
+        },
+        "region_attributes": {
+          "name": "ESPADOL JBN ORIGINAL ENV x 80 - 7798339190051",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 637,
+          "y": 183,
+          "width": 214,
+          "height": 164
+        },
+        "region_attributes": {
+          "name": "ESPADOL ALOE VERA JABON X80 - 7798339190105",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 302,
+          "y": 756,
+          "width": 186,
+          "height": 240
+        },
+        "region_attributes": {
+          "name": "ESPADOL JBN CREMOSO 3X80 ENV x 1 - 7798339190136",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 480,
+          "y": 762,
+          "width": 164,
+          "height": 223
+        },
+        "region_attributes": {
+          "name": "ESPADOL JBN ORIGINAL 3X80 ENV x 1 - 7798339190112",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 632,
+          "y": 769,
+          "width": 197,
+          "height": 219
+        },
+        "region_attributes": {
+          "name": "ESPADOL JBN SKIN CARE 3X80 ENV x 1 - 7798339190129",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 598,
+          "y": 1245,
+          "width": 240,
+          "height": 172
+        },
+        "region_attributes": {
+          "name": "ESPADOL TH ANTIBACTERIAL ENV x 10 - 7791130000079",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 405,
+          "y": 1207,
+          "width": 188,
+          "height": 240
+        },
+        "region_attributes": {
+          "name": "ESPADOL TH ANTIBACTERIAL ENV x 10 - 7791130000079",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }

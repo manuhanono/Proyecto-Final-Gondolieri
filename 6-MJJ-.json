@@ -1,0 +1,155 @@
+"6-MJJ-.jpeg279227": {
+    "filename": "6-MJJ-.jpeg",
+    "size": 279227,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 473,
+          "y": 7,
+          "width": 299,
+          "height": 306
+        },
+        "region_attributes": {
+          "name": "PROT. NOSOTRAS LARGOS C/CALE 12X50 - 7790770602032",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 297,
+          "y": 0,
+          "width": 177,
+          "height": 176
+        },
+        "region_attributes": {
+          "name": "PROT. NOSOTRAS LARGOS C/CALE 36X15 - 7790770602025",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 306,
+          "y": 180,
+          "width": 168,
+          "height": 126
+        },
+        "region_attributes": {
+          "name": "PROT. NOSOTRAS LARGOS C/CALE 36X15 - 7790770602025",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 473,
+          "y": 470,
+          "width": 189,
+          "height": 239
+        },
+        "region_attributes": {
+          "name": "PROT DIARIO NOS RESPIRABLE C/CALE 12X50 - 7790770602018",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 338,
+          "y": 463,
+          "width": 128,
+          "height": 127
+        },
+        "region_attributes": {
+          "name": "PROT DIARIO NOS RESPIRABLE C/CALE 48X15 - 7790770602001",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 338,
+          "y": 588,
+          "width": 129,
+          "height": 117
+        },
+        "region_attributes": {
+          "name": "PROT DIARIO NOS RESPIRABLE C/CALE 48X15 - 7790770602001",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 378,
+          "y": 1158,
+          "width": 169,
+          "height": 212
+        },
+        "region_attributes": {
+          "name": "NOSOTRAS NOCTURNAS TOALLITASx8-283 - 7790770601851",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 548,
+          "y": 1161,
+          "width": 172,
+          "height": 207
+        },
+        "region_attributes": {
+          "name": "NOSOTRAS NOCTURNAS TOALLITASx8-283 - 7790770601851",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }

@@ -1,0 +1,174 @@
+
+"7-MJJ-.jpeg229836": {
+    "filename": "7-MJJ-.jpeg",
+    "size": 229836,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 502,
+          "y": 518,
+          "width": 97,
+          "height": 194
+        },
+        "region_attributes": {
+          "name": "EVAGINA ESP x 240 - 7796285289348",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 611,
+          "y": 518,
+          "width": 94,
+          "height": 194
+        },
+        "region_attributes": {
+          "name": "EVAGINA ESP x 240 - 7796285289348",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 350,
+          "y": 550,
+          "width": 150,
+          "height": 161
+        },
+        "region_attributes": {
+          "name": "EVAGINA húmedas TOA x 20 - 7796285290740",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 718,
+          "y": 522,
+          "width": 69,
+          "height": 239
+        },
+        "region_attributes": {
+          "name": "EVAGINA JLI x 200 - 7796285289324",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 790,
+          "y": 523,
+          "width": 67,
+          "height": 243
+        },
+        "region_attributes": {
+          "name": "EVAGINA JLI x 200 - 7796285289324",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 853,
+          "y": 548,
+          "width": 49,
+          "height": 221
+        },
+        "region_attributes": {
+          "name": "EVAGINA DEO INTIMO AER x 75 - 7796285290856",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 901,
+          "y": 547,
+          "width": 62,
+          "height": 173
+        },
+        "region_attributes": {
+          "name": "EVAGINA DEO INTIMO AER x 75 - 7796285290856",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 338,
+          "y": 837,
+          "width": 88,
+          "height": 212
+        },
+        "region_attributes": {
+          "name": "Lomecan V Therapy Espuma - 7798140256427",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 428,
+          "y": 837,
+          "width": 74,
+          "height": 218
+        },
+        "region_attributes": {
+          "name": "Lomecan V Therapy Espuma - 7798140256427",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }
