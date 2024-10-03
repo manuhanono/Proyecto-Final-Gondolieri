@@ -1,0 +1,278 @@
+{
+      "filename": "37-MJJ-.jpeg",
+      "size": 346155,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 66,
+            "y": 188,
+            "width": 156,
+            "height": 253
+          },
+          "region_attributes": {
+            "name": "DOVE AC REAL FUERZA + BAMBU ENV x 300 - 7891150081093",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 206,
+            "y": 183,
+            "width": 126,
+            "height": 264
+          },
+          "region_attributes": {
+            "name": "DOVE AC REAL NUTRICION + GERANIO ENV x 300 - 7891150081079",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 326,
+            "y": 178,
+            "width": 224,
+            "height": 268
+          },
+          "region_attributes": {
+            "name": "DOVE AC REAL PURIFICACION + JENGIBRE ENV x 300 - 7891150081086",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 117,
+            "y": 720,
+            "width": 323,
+            "height": 248
+          },
+          "region_attributes": {
+            "name": "DOVE AC RECONSTRUCCION 12X400ML - 7791293047508",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 136,
+            "y": 978,
+            "width": 313,
+            "height": 242
+          },
+          "region_attributes": {
+            "name": "DOVE SH REGENERACION 12X400ML - 7791293047171",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 144,
+            "y": 1213,
+            "width": 156,
+            "height": 193
+          },
+          "region_attributes": {
+            "name": "DOVE SH NUTRICION 12X400ML - 7791293047164",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 297,
+            "y": 1219,
+            "width": 156,
+            "height": 198
+          },
+          "region_attributes": {
+            "name": "DOVE AC NUTRICION 12X400ML - 7791293047515",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 84,
+            "y": 1491,
+            "width": 57,
+            "height": 93
+          },
+          "region_attributes": {
+            "name": "FRUCTIS SH HAIR FOOD AGUACATE ENV x 300 - 7509552874105",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1,
+            "y": 1471,
+            "width": 83,
+            "height": 115
+          },
+          "region_attributes": {
+            "name": "FRUCTIS SH HAIR FOOD SANDIA ENV x 300 - 7509552874082",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1060,
+            "y": 1265,
+            "width": 84,
+            "height": 180
+          },
+          "region_attributes": {
+            "name": "PNT SH PROVMIR DETOX 400MLX12IT - 7500435229821",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 874,
+            "y": 1303,
+            "width": 65,
+            "height": 152
+          },
+          "region_attributes": {
+            "name": "PNT SH PROVMIR DETOX 400MLX12IT - 7500435229821",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 806,
+            "y": 1294,
+            "width": 75,
+            "height": 161
+          },
+          "region_attributes": {
+            "name": "PNT SH PROVMIR HIDRATA 400MLX12IT - 7500435230094",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 734,
+            "y": 1249,
+            "width": 78,
+            "height": 176
+          },
+          "region_attributes": {
+            "name": "PNT CN PROVMIR HIDRATA 400MLX12IT - 7500435230117",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 870,
+            "y": 1012,
+            "width": 91,
+            "height": 200
+          },
+          "region_attributes": {
+            "name": "PNT CN PROVMIR EQUILIBRIO 400MLX12IT - 7500435230018",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 773,
+            "y": 1002,
+            "width": 88,
+            "height": 211
+          },
+          "region_attributes": {
+            "name": "PNT SH PROVMIR EQUILIBRIO 400MLX12IT - 7500435209694",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Cuidado capilar",
+      "marcas": ["Dove", "Fructis", "Pantene"]
+    }

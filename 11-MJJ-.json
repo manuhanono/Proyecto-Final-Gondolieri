@@ -1,0 +1,404 @@
+{
+    "filename": "11-MJJ-.jpeg",
+    "size": 412080,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 136,
+          "y": 400,
+          "width": 81,
+          "height": 166
+        },
+        "region_attributes": {
+          "name": "HINDS ROSA PLUS 90ML MANOS - 7794640173097",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 220,
+          "y": 400,
+          "width": 76,
+          "height": 174
+        },
+        "region_attributes": {
+          "name": "HINDS ANTI-AGE PLUS 250ML - 7794640173158",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 295,
+          "y": 394,
+          "width": 77,
+          "height": 191
+        },
+        "region_attributes": {
+          "name": "HINDS ANTI-AGE PLUS 250ML - 7794640173158",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 158,
+          "y": 610,
+          "width": 113,
+          "height": 198
+        },
+        "region_attributes": {
+          "name": "HINDS ANTI-AGE PLUS 250ML - 7794640173158",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 271,
+          "y": 617,
+          "width": 98,
+          "height": 188
+        },
+        "region_attributes": {
+          "name": "HINDS ANTI-AGE PLUS 250ML - 7794640173158",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 50,
+          "y": 838,
+          "width": 119,
+          "height": 200
+        },
+        "region_attributes": {
+          "name": "HINDS ROSA PLUS 350 ML - 7794640173080",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 176,
+          "y": 1061,
+          "width": 80,
+          "height": 163
+        },
+        "region_attributes": {
+          "name": "HINDS ROSA PLUS 250 ML - 7794640173073",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 268,
+          "y": 1059,
+          "width": 91,
+          "height": 159
+        },
+        "region_attributes": {
+          "name": "HINDS ROSA PLUS 250 ML - 7794640173073",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 70,
+          "y": 1259,
+          "width": 102,
+          "height": 161
+        },
+        "region_attributes": {
+          "name": "HINDS ROSA PLUS 350 ML - 7794640173080",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 558,
+          "y": 343,
+          "width": 82,
+          "height": 260
+        },
+        "region_attributes": {
+          "name": "NIVEA Q10 PLUS COLLAGEN CREMA CORPORAL X400ML - 4006000011158",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 378,
+          "y": 614,
+          "width": 116,
+          "height": 188
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY Q10 PLUS COLLAGEN CREMA X250ML - 4005800326134",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 375,
+          "y": 403,
+          "width": 61,
+          "height": 187
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY Q10 PLUS COLLAGEN LOCION X125ML - 4006000011172",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 499,
+          "y": 619,
+          "width": 64,
+          "height": 184
+        },
+        "region_attributes": {
+          "name": "NIVEA HIDRATACION EXPRESS PIEL NORMAL CREMAX250ml - 4006000040356",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 564,
+          "y": 619,
+          "width": 121,
+          "height": 187
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY SOFT MILK KARITE LECHE X250ml - 4006000040417",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 378,
+          "y": 838,
+          "width": 214,
+          "height": 183
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY SOFT MILK KARITE LECHE X250ml - 4006000040417",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 722,
+          "y": 834,
+          "width": 70,
+          "height": 195
+        },
+        "region_attributes": {
+          "name": "NIVEA HIDRATACION EXPRESS PIEL NORMAL CREMAX250ml - 4006000040356",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 686,
+          "y": 620,
+          "width": 123,
+          "height": 188
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY MILK NUTRITIVA RAPID.ABSORCION LEC.X250 - 4005900984616",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 361,
+          "y": 1255,
+          "width": 219,
+          "height": 159
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY MILK NUTRITIVA RAPID.ABSORCION LEC.X250 - 4005900984616",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 584,
+          "y": 1254,
+          "width": 171,
+          "height": 145
+        },
+        "region_attributes": {
+          "name": "NIVEA BODY MILK NUTRITIVA RAPID.ABSORCION LEC.X400 - 4005900984623",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 799,
+          "y": 713,
+          "width": 88,
+          "height": 92
+        },
+        "region_attributes": {
+          "name": "Diabettx Plus Urea 10% 250 g - 7798140258285",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 993,
+          "y": 684,
+          "width": 114,
+          "height": 127
+        },
+        "region_attributes": {
+          "name": "Diabettx Desodorante Roll On 50 ml - 7798140254430",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 593,
+          "y": 825,
+          "width": 125,
+          "height": 199
+        },
+        "region_attributes": {
+          "name": "NIVEA VAINILLA LOCION CORPORAL X400 - 4005900399946",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "tipo": "Dermocosmetica",
+    "marcas": ["Nivea", "Hinds", "Diabettx"]
+  }

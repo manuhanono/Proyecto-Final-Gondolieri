@@ -1,0 +1,206 @@
+{
+      "filename": "9-MJJ-.jpeg",
+      "size": 270791,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 411,
+            "y": 48,
+            "width": 82,
+            "height": 212
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT MEN ROLL ON INVISIBLE BLACK & WHITE POWER ENV x 50 - 4005900036759",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 497,
+            "y": 63,
+            "width": 84,
+            "height": 202
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT ROLL ON DRY COMFORT PLUS ENV x 50 - 4005808257584",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 582,
+            "y": 2,
+            "width": 150,
+            "height": 269
+          },
+          "region_attributes": {
+            "name": "SECRET CLINICAL LIGHT FRESH BAR x 45 - 37000096153",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 503,
+            "y": 493,
+            "width": 119,
+            "height": 228
+          },
+          "region_attributes": {
+            "name": "SECRET ANT POWDER FRESH WIDE BARRA ENV x 48 - 37000124429",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 432,
+            "y": 430,
+            "width": 74,
+            "height": 280
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PEARL BEAUTY AER x 150 - 4005900985705",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 278,
+            "y": 418,
+            "width": 100,
+            "height": 290
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PROTECT & CARE AER x 150 - 4005900973795",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 363,
+            "y": 416,
+            "width": 80,
+            "height": 297
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PROTECT & CARE AER x 150 - 4005900973795",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 456,
+            "y": 815,
+            "width": 60,
+            "height": 212
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT BLACK&WHITE FRESH AER x 150 - 4005900985712",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 513,
+            "y": 857,
+            "width": 91,
+            "height": 159
+          },
+          "region_attributes": {
+            "name": "SECRET OUTLAST DEO GEL x 73 - 37000808312",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 462,
+            "y": 1096,
+            "width": 92,
+            "height": 160
+          },
+          "region_attributes": {
+            "name": "SECRET FRESH BOHO BERRY DEO GEL x 73 - 37000809050",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 316,
+            "y": 812,
+            "width": 138,
+            "height": 219
+          },
+          "region_attributes": {
+            "name": "NIVEA PEARL&BEAUTY FRAGANCIA INTENSA AEROSOL x150 - 4005900985705",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Higiene personal",
+      "marcas": ["Nivea", "Secret"]
+    }

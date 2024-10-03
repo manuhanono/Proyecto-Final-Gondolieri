@@ -1,17 +1,17 @@
 {
-    "filename": "34-MJJ-.jpeg",
-    "size": 227525,
+    "filename": "15-MJJ-.jpeg",
+    "size": 129864,
     "regions": [
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 1374,
-          "y": 304,
-          "width": 152,
-          "height": 386
+          "x": 305,
+          "y": 898,
+          "width": 48,
+          "height": 140
         },
         "region_attributes": {
-          "name": "TRESEMME SH BRILLO LAMELAR P 12X500ML - 7791293049861",
+          "name": "NIVEA BODY SOFT MILK KARITE LECHE X250ml - 4006000040417",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -23,13 +23,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 1276,
-          "y": 294,
-          "width": 140,
-          "height": 392
+          "x": 285,
+          "y": 714,
+          "width": 40,
+          "height": 136
         },
         "region_attributes": {
-          "name": "TRESEMME AC ONDAS BOHO ST P 12X500ML - 7791293050201",
+          "name": "NIVEA BODY SOFT MILK KARITE LECHE X250ml - 4006000040417",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -41,13 +41,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 1187,
-          "y": 298,
-          "width": 131,
-          "height": 396
+          "x": 486,
+          "y": 307,
+          "width": 92,
+          "height": 166
         },
         "region_attributes": {
-          "name": "TRESEMME SH ONDAS BOHO ST P 12X500ML - 7791293050195",
+          "name": "NIVEA VAINILLA LOCION CORPORAL X400 - 4005900399946",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -59,13 +59,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 1073,
-          "y": 312,
-          "width": 107,
-          "height": 372
+          "x": 350,
+          "y": 711,
+          "width": 45,
+          "height": 149
         },
         "region_attributes": {
-          "name": "TRESEMME AC MATIZ ULTRA ST P 12X500ML - 7791293050300",
+          "name": "NIVEA BODY MILK NUTRITIVA RAPID.ABSORCION LEC.X250 - 4005900984616",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -77,13 +77,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 986,
-          "y": 311,
-          "width": 113,
-          "height": 405
+          "x": 377,
+          "y": 565,
+          "width": 42,
+          "height": 106
         },
         "region_attributes": {
-          "name": "TRESEMME AC KERA ANTIFRIZZ ST P 12X500ML - 7791293049960",
+          "name": "NIVEA BODY MILK NUTRITIVA RAPID.ABSORCION LEC.X125 - 4005900984609",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -95,13 +95,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 857,
-          "y": 312,
-          "width": 130,
-          "height": 394
+          "x": 441,
+          "y": 314,
+          "width": 64,
+          "height": 157
         },
         "region_attributes": {
-          "name": "TRESEMME SH CAUT REPARADOR ST P 12X500ML - 7791293050034",
+          "name": "NIVEA LOC CEREZA CORPORAL ENV x 400 - 4005900399953",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -113,13 +113,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 734,
-          "y": 295,
-          "width": 121,
-          "height": 414
+          "x": 294,
+          "y": 329,
+          "width": 47,
+          "height": 145
         },
         "region_attributes": {
-          "name": "TRESEMME AC LISO BOTOX ST P 12X500ML - 7791293050126",
+          "name": "NIVEA BODY Q10 PLUS COLLAGEN CREMA X250ML - 4005800326134",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -131,13 +131,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 592,
-          "y": 298,
-          "width": 135,
-          "height": 408
+          "x": 332,
+          "y": 309,
+          "width": 60,
+          "height": 170
         },
         "region_attributes": {
-          "name": "TRESEMME SH LISO BOTOX ST P 12X500ML - 7791293050119",
+          "name": "NIVEA PIERNAS RELAJADAS ANTI-CELULITIS CREMA x400 - 4005900143952",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -149,13 +149,31 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 453,
-          "y": 274,
-          "width": 151,
-          "height": 433
+          "x": 318,
+          "y": 759,
+          "width": 42,
+          "height": 114
         },
         "region_attributes": {
-          "name": "TRESEMME SH DETOX CAPILAR ST P 12X500ML - 7791293050256",
+          "name": "NIVEA CR Q10 PLUS COLLAGEN REAF ENV x 125 - 4006000011172",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 348,
+          "y": 900,
+          "width": 44,
+          "height": 143
+        },
+        "region_attributes": {
+          "name": "NIVEA HIDRATACION EXPRESS PIEL NORMAL CREMAX400ml - 4006000040363",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -165,6 +183,6 @@
         }
       }
     ],
-    "tipo": "Cuidado Capilar",
-    "marcas": ["Tresseme"]
+    "tipo": "Dermocosmetica",
+    "marcas": ["Nivea"]
   }

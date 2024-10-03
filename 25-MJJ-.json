@@ -1,0 +1,62 @@
+{
+      "filename": "25-MJJ-.jpeg",
+      "size": 262385,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 255,
+            "y": 430,
+            "width": 223,
+            "height": 301
+          },
+          "region_attributes": {
+            "name": "ORAL B CR 3D WHITE CARBON ENV x 102 - 7500435142700",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 470,
+            "y": 443,
+            "width": 212,
+            "height": 309
+          },
+          "region_attributes": {
+            "name": "ORAL B CR GENGIVA DETOX DEEP CLEAN ENV x 75 - 7500435130547",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 740,
+            "y": 853,
+            "width": 287,
+            "height": 222
+          },
+          "region_attributes": {
+            "name": "ORAL B CR COMPLETE LIMPIEZA PROFUNDA ENV x 70 - 7500435122764",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Cuidado oral",
+      "marcas": ["ORAL B"]
+    }

@@ -1,5 +1,4 @@
-
-"7-MJJ-.jpeg229836": {
+{
     "filename": "7-MJJ-.jpeg",
     "size": 229836,
     "regions": [
@@ -48,7 +47,7 @@
           "height": 161
         },
         "region_attributes": {
-          "name": "EVAGINA húmedas TOA x 20 - 7796285290740",
+          "name": "EVAGINA humedas TOA x 20 - 7796285290740",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -166,9 +165,6 @@
         }
       }
     ],
-    "file_attributes": {
-      "caption": "",
-      "public_domain": "no",
-      "image_url": ""
-    }
+      "tipo": "Higiene personal",
+      "marcas": ["EVAGINA", "Lomecan"]
   }

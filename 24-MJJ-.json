@@ -1,0 +1,260 @@
+{
+      "filename": "24-MJJ-.jpeg",
+      "size": 268462,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 331,
+            "y": 268,
+            "width": 107,
+            "height": 229
+          },
+          "region_attributes": {
+            "name": "Shampoo Herbolaria Milenaria v2 200 ml - 7798140256786",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 106,
+            "y": 178,
+            "width": 135,
+            "height": 324
+          },
+          "region_attributes": {
+            "name": "Shampoo Herbolaria Milenaria v2 415 ml - 7798140256762",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 216,
+            "y": 551,
+            "width": 116,
+            "height": 286
+          },
+          "region_attributes": {
+            "name": "Acondicionador Engrosador v2 415 ml - 7798140256731",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 101,
+            "y": 546,
+            "width": 120,
+            "height": 290
+          },
+          "region_attributes": {
+            "name": "Shampoo Engrosador v2 415 ml - 7798140256724",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 166,
+            "y": 885,
+            "width": 120,
+            "height": 277
+          },
+          "region_attributes": {
+            "name": "Shampoo Aclarante v2 415 ml - 7798140256649",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 272,
+            "y": 877,
+            "width": 114,
+            "height": 279
+          },
+          "region_attributes": {
+            "name": "Acondicionador Aclarante v2 415 ml - 7798140256656",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 373,
+            "y": 924,
+            "width": 175,
+            "height": 208
+          },
+          "region_attributes": {
+            "name": "Acondicionador Aclarante v2 200 ml - 7798140256670",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 317,
+            "y": 611,
+            "width": 81,
+            "height": 236
+          },
+          "region_attributes": {
+            "name": "Shampoo Engrosador v2 200 ml - 7798140256748",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 680,
+            "y": 224,
+            "width": 97,
+            "height": 248
+          },
+          "region_attributes": {
+            "name": "PNT SH PROVMIR DETOX 400MLX12IT - 7500435229821",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 774,
+            "y": 216,
+            "width": 76,
+            "height": 261
+          },
+          "region_attributes": {
+            "name": "PNT CN PROVMIR DETOX 400MLX12IT - 7500435229814",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 777,
+            "y": 1152,
+            "width": 84,
+            "height": 250
+          },
+          "region_attributes": {
+            "name": "PNT PROVMIR CN VOLUMEN 400MLX12IT - 7500435235334",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 703,
+            "y": 1156,
+            "width": 89,
+            "height": 245
+          },
+          "region_attributes": {
+            "name": "PNT PROVMIR SH VOLUME 400MLX12IT - 7500435235297",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 765,
+            "y": 558,
+            "width": 130,
+            "height": 254
+          },
+          "region_attributes": {
+            "name": "PANTENE CN COLAGENO 400MLX12IT - 7500435138345",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 689,
+            "y": 563,
+            "width": 109,
+            "height": 252
+          },
+          "region_attributes": {
+            "name": "PANTENE SH COLAGENO 400MLX12IT - 7500435137928",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Cuidado capilar",
+      "marcas": ["Tio Nacho", "Pantene"]
+    }

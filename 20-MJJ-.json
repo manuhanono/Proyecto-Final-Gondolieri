@@ -1,0 +1,368 @@
+{
+    "filename": "20-MJJ-.jpeg",
+    "size": 194511,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 11,
+          "y": 358,
+          "width": 185,
+          "height": 129
+        },
+        "region_attributes": {
+          "name": "HS SH ARGAN PO 375MLX12IT - 7500435202695",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 27,
+          "y": 504,
+          "width": 112,
+          "height": 142
+        },
+        "region_attributes": {
+          "name": "HS SH COCONUT PO 375MLx12IT - 7500435142557",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 25,
+          "y": 662,
+          "width": 169,
+          "height": 123
+        },
+        "region_attributes": {
+          "name": "HS SH APPLE PO 375MLX12IT - 7500435019880",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 140,
+          "y": 514,
+          "width": 55,
+          "height": 133
+        },
+        "region_attributes": {
+          "name": "HS CN Coconut PO 300MLX12IT - 7500435147583",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 946,
+          "width": 104,
+          "height": 127
+        },
+        "region_attributes": {
+          "name": "HS SH ANTIFALL PO 375MLX12IT - 7500435019712",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 244,
+          "y": 796,
+          "width": 130,
+          "height": 131
+        },
+        "region_attributes": {
+          "name": "SEDAL SH COLAGENO Y VIT C IA 12X340ML - 7791293046402",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 239,
+          "y": 513,
+          "width": 158,
+          "height": 144
+        },
+        "region_attributes": {
+          "name": "SEDAL SH PREBIOTICOS+BIOTINA 12X340ML - 7791293049731",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 236,
+          "y": 661,
+          "width": 165,
+          "height": 128
+        },
+        "region_attributes": {
+          "name": "SEDAL SH HIALURONICO Y VIT A IA 12X340ML - 7791293046372",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 400,
+          "y": 537,
+          "width": 40,
+          "height": 121
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR Nutric Prof SHA x 350 - 7790375269685",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 478,
+          "y": 547,
+          "width": 60,
+          "height": 97
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR Nutric Prof. CRE x 300 - 7790375269760",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 436,
+          "y": 543,
+          "width": 45,
+          "height": 108
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR Nutric Prof. ACO x 350 - 7790375269739",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 400,
+          "y": 386,
+          "width": 39,
+          "height": 130
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR Rep.Intens. SHA x 350 - 7790375269708",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 434,
+          "y": 392,
+          "width": 69,
+          "height": 127
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR Rep.Intens. ACO x 350 - 7790375269753",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 442,
+          "y": 670,
+          "width": 49,
+          "height": 123
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR P.L.s/frizz ACO x 350 - 7790375269746",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 487,
+          "y": 685,
+          "width": 32,
+          "height": 90
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR P.L.s/frizz CRE x 200 - 7790375269784",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 405,
+          "y": 673,
+          "width": 44,
+          "height": 109
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR P.L.s/frizz SHA x 350 - 7790375269692",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 467,
+          "y": 805,
+          "width": 43,
+          "height": 91
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR ColorRadia. ACO x 350 - 7790375269722",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 423,
+          "y": 805,
+          "width": 45,
+          "height": 97
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR ColorRadia. SHA x 350 - 7790375269678",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 407,
+          "y": 935,
+          "width": 56,
+          "height": 101
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR BrilloSubl. SHA x 350 - 7790375269661",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 467,
+          "y": 932,
+          "width": 52,
+          "height": 106
+        },
+        "region_attributes": {
+          "name": "BAGOVIT A CAPILAR BrilloSubl. ACO x 350 - 7790375269715",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "tipo": "Cuidado capilar",
+    "marcas": ["Bagovit", "Sedal", "Head & Shoulders"]
+  }

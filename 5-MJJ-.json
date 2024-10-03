@@ -1,0 +1,224 @@
+{
+      "filename": "5-MJJ-.jpeg",
+      "size": 173221,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 274,
+            "y": 386,
+            "width": 70,
+            "height": 73
+          },
+          "region_attributes": {
+            "name": "NIVEA CR ANTIARRUGAS 55+ REVITALIZANTE ENV x 50 - 4005900470935",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 346,
+            "y": 387,
+            "width": 67,
+            "height": 72
+          },
+          "region_attributes": {
+            "name": "NIVEA CR ANTIARRUGAS 55+ REVITALIZANTE ENV x 50 - 4005900470935",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 201,
+            "y": 388,
+            "width": 74,
+            "height": 105
+          },
+          "region_attributes": {
+            "name": "NIVEA CR Q10 ENERGY NOCHE ENV x 50 - 4006000023717",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 120,
+            "y": 381,
+            "width": 87,
+            "height": 122
+          },
+          "region_attributes": {
+            "name": "NIVEA CR Q10 ANTIARRUGAS ENERGIZANTE ENV x 50 - 4005900797209",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 414,
+            "y": 355,
+            "width": 72,
+            "height": 143
+          },
+          "region_attributes": {
+            "name": "NIVEA CR VISAGE HIDRATANTE PIEL SECA DIA CRE x 50 - 4005808553006",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 457,
+            "y": 295,
+            "width": 106,
+            "height": 201
+          },
+          "region_attributes": {
+            "name": "NIVEA CR VISAGE HIDRATANTE PIEL NORMAL ENV x 50 - 4005808547760",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 180,
+            "y": 690,
+            "width": 70,
+            "height": 108
+          },
+          "region_attributes": {
+            "name": "NIVEA GEL ROSE HIDRATANTE ENV x 50 - 4005900806154",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 247,
+            "y": 651,
+            "width": 79,
+            "height": 165
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE MICELAR GEL ENV x 150 - 4005900773838",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 444,
+            "y": 647,
+            "width": 58,
+            "height": 156
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE LECHE&TONICO MICELAR LIMPIAD ENV x 200 - 4005900773845",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 316,
+            "y": 644,
+            "width": 129,
+            "height": 171
+          },
+          "region_attributes": {
+            "name": "NIVEA AGUA ROSE HIDRATANTE ENV x 150 - 4005900806161",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 408,
+            "y": 7,
+            "width": 96,
+            "height": 151
+          },
+          "region_attributes": {
+            "name": "NIVEA CR CELLULAR DIA LIFT ENV x 50 - 4005900713629",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 498,
+            "y": 3,
+            "width": 78,
+            "height": 135
+          },
+          "region_attributes": {
+            "name": "NIVEA CR CELLULAR NOCHE ENV x 50 - 4005900713636",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Dermocosmetica",
+      "marcas": ["Nivea"]
+    }

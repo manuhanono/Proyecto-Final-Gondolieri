@@ -1,0 +1,44 @@
+{
+      "filename": "27-MJJ-.jpeg",
+      "size": 129135,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 261,
+            "y": 175,
+            "width": 117,
+            "height": 171
+          },
+          "region_attributes": {
+            "name": "TRESEMME SERUM BRILLO LAMELAR 12X170ML - 7891150094390",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 380,
+            "y": 197,
+            "width": 118,
+            "height": 160
+          },
+          "region_attributes": {
+            "name": "TRESEMME PROTETOR TERM ANTIFRIZZ 6X120ML - 7791293049694",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Cuidado capilar",
+      "marcas": ["Tresseme"]
+    }

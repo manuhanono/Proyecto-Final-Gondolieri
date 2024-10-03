@@ -1,17 +1,17 @@
 {
-    "filename": "29-MJJ-.jpeg",
-    "size": 252600,
+    "filename": "22-MJJ-.jpeg",
+    "size": 252102,
     "regions": [
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 417,
-          "y": 182,
-          "width": 220,
-          "height": 166
+          "x": 666,
+          "y": 281,
+          "width": 313,
+          "height": 287
         },
         "region_attributes": {
-          "name": "ESPADOL JBN ORIGINAL ENV x 80 - 7798339190051",
+          "name": "VEET SENSIBLE CUERPO BANDA DEPILAT X6 DOBLES - 7501058769060",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -23,13 +23,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 637,
-          "y": 183,
-          "width": 214,
-          "height": 164
+          "x": 306,
+          "y": 1098,
+          "width": 295,
+          "height": 310
         },
         "region_attributes": {
-          "name": "ESPADOL ALOE VERA JABON X80 - 7798339190105",
+          "name": "VEET CREMA DEPILATORIA DUCHA PIEL SENSIBLE x150 - 7501058769541",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -41,13 +41,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 302,
-          "y": 756,
-          "width": 186,
-          "height": 240
+          "x": 715,
+          "y": 655,
+          "width": 341,
+          "height": 298
         },
         "region_attributes": {
-          "name": "ESPADOL JBN CREMOSO 3X80 ENV x 1 - 7798339190136",
+          "name": "VEET CREMA DUCHA P/NORMAL ENV x 150 - 3059944020664",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -59,13 +59,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 480,
-          "y": 762,
-          "width": 164,
-          "height": 223
+          "x": 516,
+          "y": 285,
+          "width": 180,
+          "height": 295
         },
         "region_attributes": {
-          "name": "ESPADOL JBN ORIGINAL 3X80 ENV x 1 - 7798339190112",
+          "name": "VEET NORMAL CUERPO BANDA DEPILAT X6 DOBLES - 8413600511012",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -77,13 +77,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 632,
-          "y": 769,
-          "width": 197,
-          "height": 219
+          "x": 337,
+          "y": 0,
+          "width": 245,
+          "height": 211
         },
         "region_attributes": {
-          "name": "ESPADOL JBN SKIN CARE 3X80 ENV x 1 - 7798339190129",
+          "name": "VEET NORMAL ROSTRO BANDA DEPILAT X5bandasx4 - 8413600511609",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -95,31 +95,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 598,
-          "y": 1245,
-          "width": 240,
-          "height": 172
+          "x": 543,
+          "y": 662,
+          "width": 204,
+          "height": 292
         },
         "region_attributes": {
-          "name": "ESPADOL TH ANTIBACTERIAL ENV x 10 - 7791130000079",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 405,
-          "y": 1207,
-          "width": 188,
-          "height": 240
-        },
-        "region_attributes": {
-          "name": "ESPADOL TH ANTIBACTERIAL ENV x 10 - 7791130000079",
+          "name": "VEET DEPILAT.CORP.C_EXTR.PAPAYA P.NOR_SECA CRx100 - 7702626211053",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -130,5 +112,5 @@
       }
     ],
     "tipo": "Higiene personal",
-    "marcas": ["Espadol"]
+    "marcas": ["Veet"]
   }

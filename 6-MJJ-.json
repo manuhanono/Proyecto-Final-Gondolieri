@@ -1,4 +1,4 @@
-"6-MJJ-.jpeg279227": {
+{
     "filename": "6-MJJ-.jpeg",
     "size": 279227,
     "regions": [
@@ -147,9 +147,6 @@
         }
       }
     ],
-    "file_attributes": {
-      "caption": "",
-      "public_domain": "no",
-      "image_url": ""
-    }
+    "tipo": "Proteccion femenina",
+    "marcas": ["Nosotras"]
   }

@@ -1,0 +1,170 @@
+{
+      "filename": "30-MJJ-.jpeg",
+      "size": 335697,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 817,
+            "y": 420,
+            "width": 124,
+            "height": 236
+          },
+          "region_attributes": {
+            "name": "EVAGINA ESP x 240 - 7796285289348",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 744,
+            "y": 431,
+            "width": 79,
+            "height": 238
+          },
+          "region_attributes": {
+            "name": "EVAGINA JLI x 200 - 7796285289324",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 646,
+            "y": 444,
+            "width": 104,
+            "height": 225
+          },
+          "region_attributes": {
+            "name": "EVAGINA DEO INTIMO AER x 75 - 7796285290856",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 504,
+            "y": 377,
+            "width": 148,
+            "height": 305
+          },
+          "region_attributes": {
+            "name": "EVAGINA húmedas TOA x 20 - 7796285290740",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 361,
+            "y": 467,
+            "width": 159,
+            "height": 220
+          },
+          "region_attributes": {
+            "name": "EVAGINA Pomo GEL x 50 - 7796285289331",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 505,
+            "y": 743,
+            "width": 84,
+            "height": 232
+          },
+          "region_attributes": {
+            "name": "Lomecan V Therapy Espuma - 7798140256427",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 545,
+            "y": 1340,
+            "width": 112,
+            "height": 182
+          },
+          "region_attributes": {
+            "name": "ALA LIQ CONC P_DIL E MAX BLAN DP12X150ML - 7791290793200",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 621,
+            "y": 1312,
+            "width": 109,
+            "height": 232
+          },
+          "region_attributes": {
+            "name": "SKIP LIQ CONC P_DIL BE B ENZ DP 12X150ML - 7791290793217",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 719,
+            "y": 735,
+            "width": 138,
+            "height": 231
+          },
+          "region_attributes": {
+            "name": "KY GEL LUBRICANTE INTIMO X100 - 7891010005047",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Higiene personal",
+      "marcas": ["Evagina", "KY", "Lomecan", "Otros"]
+    }

@@ -1,17 +1,18 @@
+
 {
-    "filename": "13-MJJ-.jpeg",
-    "size": 153956,
+    "filename": "17-MJJ-.jpeg",
+    "size": 263429,
     "regions": [
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 102,
-          "y": 370,
-          "width": 178,
-          "height": 216
+          "x": 4,
+          "y": 4,
+          "width": 197,
+          "height": 290
         },
         "region_attributes": {
-          "name": "TRESEMME SERUM BRILLO LAMELAR 12X170ML - 7891150094390",
+          "name": "ELVIVE COLOR VIVE ACO 400ml Arg CM - 7509552902891",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -23,13 +24,175 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 200,
-          "y": 164,
+          "x": 178,
+          "y": 5,
+          "width": 319,
+          "height": 314
+        },
+        "region_attributes": {
+          "name": "ELVIVE HA PURE SHAMPOO 400ML ARG CM - 7509552876444",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 982,
+          "y": 11,
+          "width": 216,
+          "height": 350
+        },
+        "region_attributes": {
+          "name": "DOVE AC REGENERACION 12X400ML - 7791293047522",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 729,
+          "y": 9,
+          "width": 255,
+          "height": 350
+        },
+        "region_attributes": {
+          "name": "DOVE SH REGENERACION 12X400ML - 7791293047171",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 706,
+          "y": 387,
+          "width": 209,
+          "height": 326
+        },
+        "region_attributes": {
+          "name": "DOVE SH NUTRICION 12X400ML - 7791293047164",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 915,
+          "y": 386,
+          "width": 215,
+          "height": 345
+        },
+        "region_attributes": {
+          "name": "DOVE AC NUTRICION 12X400ML - 7791293047515",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 249,
+          "y": 702,
+          "width": 58,
+          "height": 218
+        },
+        "region_attributes": {
+          "name": "FRUCTIS SH HAIR FOOD BANANA ENV x 300 - 7509552874167",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 428,
+          "y": 773,
+          "width": 134,
+          "height": 174
+        },
+        "region_attributes": {
+          "name": "FRUCTIS SH HAIR FOOD SANDIA ENV x 300 - 7509552874082",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 305,
+          "y": 759,
+          "width": 63,
+          "height": 146
+        },
+        "region_attributes": {
+          "name": "FRUCTIS AC HAIR FOOD BANANA ENV x 300 - 7509552874174",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 561,
+          "y": 764,
+          "width": 66,
+          "height": 196
+        },
+        "region_attributes": {
+          "name": "FRUCTIS AC HAIR FOOD AGUACATE ENV x 300 - 7509552874099",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 176,
+          "y": 705,
           "width": 78,
-          "height": 132
+          "height": 204
         },
         "region_attributes": {
-          "name": "TRESEMME FINISHER OLEO TEXT LIV 12X60ML - 7891150094482",
+          "name": "FRUCTIS SH HAIR FOOD COCO ENV x 300 - 7509552874136",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -41,193 +204,13 @@
       {
         "shape_attributes": {
           "name": "rect",
-          "x": 418,
-          "y": 106,
-          "width": 135,
-          "height": 196
+          "x": 370,
+          "y": 761,
+          "width": 59,
+          "height": 166
         },
         "region_attributes": {
-          "name": "TRESEMME PROTETOR TERM ANTIFRIZZ 6X120ML - 7791293049694",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 286,
-          "y": 607,
-          "width": 105,
-          "height": 187
-        },
-        "region_attributes": {
-          "name": "TRESEMME SH BRILLO LAMELAR P 12X500ML - 7791293049861",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 392,
-          "y": 599,
-          "width": 140,
-          "height": 182
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC BRILLO LAMELAR P 12X500ML - 7791293049878",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 188,
-          "y": 612,
-          "width": 67,
-          "height": 196
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC CAUT REPARADOR ST P 12X500ML - 7791293050041",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 132,
-          "y": 617,
-          "width": 67,
-          "height": 192
-        },
-        "region_attributes": {
-          "name": "TRESEMME SH CAUT REPARADOR ST P 12X500ML - 7791293050034",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 244,
-          "y": 827,
-          "width": 146,
-          "height": 162
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC MATIZ ULTRA ST P 12X500ML - 7791293050300",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 476,
-          "y": 805,
-          "width": 50,
-          "height": 167
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC DETOX CAPILAR ST P 12X500ML - 7791293050263",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 431,
-          "y": 805,
-          "width": 47,
-          "height": 169
-        },
-        "region_attributes": {
-          "name": "TRESEMME SH DETOX CAPILAR ST P 12X500ML - 7791293050256",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 212,
-          "y": 1031,
-          "width": 94,
-          "height": 147
-        },
-        "region_attributes": {
-          "name": "TRESEMME SH ONDAS BOHO ST P 12X500ML - 7791293050195",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 299,
-          "y": 1024,
-          "width": 57,
-          "height": 143
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC ONDAS BOHO ST P 12X500ML - 7791293050201",
-          "type": "unknown",
-          "image_quality": {
-            "good": true,
-            "frontal": true,
-            "good_illumination": true
-          }
-        }
-      },
-      {
-        "shape_attributes": {
-          "name": "rect",
-          "x": 430,
-          "y": 1000,
-          "width": 89,
-          "height": 142
-        },
-        "region_attributes": {
-          "name": "TRESEMME AC LISO BOTOX ST P 12X500ML - 7791293050126",
+          "name": "FRUCTIS AC HAIR FOOD ALOE ENV x 300 - 7509552877106",
           "type": "unknown",
           "image_quality": {
             "good": true,
@@ -237,6 +220,6 @@
         }
       }
     ],
-    "tipo": "Cuidado Capilar",
-    "marcas": ["Tresseme"]
+    "tipo": "Cuidado capilar",
+    "marcas": ["Dove", "Fructis", "Loreal"]
   }

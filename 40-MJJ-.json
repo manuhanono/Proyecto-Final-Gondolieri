@@ -1,0 +1,422 @@
+{
+      "filename": "40-MJJ-.jpeg",
+      "size": 245375,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 171,
+            "y": 919,
+            "width": 212,
+            "height": 156
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER INVIS 12X87G/150ML - 7791293049526",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 60,
+            "y": 1114,
+            "width": 334,
+            "height": 169
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER BAM A V 12X89G/150ML - 7791293049564",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 36,
+            "y": 918,
+            "width": 138,
+            "height": 156
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER COT DRY 12X89G/150ML - 7791293049533",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 56,
+            "y": 1286,
+            "width": 187,
+            "height": 131
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 148,
+            "y": 708,
+            "width": 143,
+            "height": 164
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER NUTRI 12X89G/150ML - 7791293049557",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 234,
+            "y": 1291,
+            "width": 168,
+            "height": 143
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER FUTBO F 12X89G/150ML - 7791293049571",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 19,
+            "y": 690,
+            "width": 135,
+            "height": 174
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER ACT EMO 12X89G/150ML - 7791293049540",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 277,
+            "y": 691,
+            "width": 104,
+            "height": 187
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER ACT EMO 12X89G/150ML - 7791293049540",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 542,
+            "y": 1122,
+            "width": 153,
+            "height": 153
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP POMELO 72H 12X87G_150ML - 7791293048482",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 402,
+            "y": 1305,
+            "width": 117,
+            "height": 141
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP COCO 72H 12X87G_150ML - 7791293048512",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 384,
+            "y": 1126,
+            "width": 152,
+            "height": 140
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP PEPINO 72H 12X87G_150ML - 7791293048475",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 516,
+            "y": 1305,
+            "width": 180,
+            "height": 129
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP PERA 72H 12X87G_150ML - 7791293048505",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 371,
+            "y": 911,
+            "width": 330,
+            "height": 183
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP INV DRY 72H 12X87G_150ML - 7791293048529",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 143,
+            "y": 213,
+            "width": 67,
+            "height": 186
+          },
+          "region_attributes": {
+            "name": "REXONA W CL AER REFRE 96H 12DX91G/150ML - 7891150089952",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 303,
+            "y": 220,
+            "width": 104,
+            "height": 203
+          },
+          "region_attributes": {
+            "name": "REXONA W CLIN AER CLASS 96H 12X91G_150ML - 7506306214989",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 195,
+            "y": 213,
+            "width": 111,
+            "height": 204
+          },
+          "region_attributes": {
+            "name": "REXONA W CLIN AER EXTDR 96H 12X91G/150ML - 7891150064300",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 702,
+            "y": 936,
+            "width": 159,
+            "height": 182
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT BLACK&WHITE FRESH AER x 150 - 4005900985712",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 699,
+            "y": 1121,
+            "width": 199,
+            "height": 165
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM AGUA DE COCO AER x 150 - 4005900985699",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 699,
+            "y": 1301,
+            "width": 214,
+            "height": 167
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT DRY COMFORT UNISEX AER x 150 - 4005900973863",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 705,
+            "y": 477,
+            "width": 234,
+            "height": 201
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PROTECT & CARE AER x 150 - 4005900973795",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 819,
+            "y": 715,
+            "width": 128,
+            "height": 198
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT BLAK PEARL FEMME AER x 150 - 4005900973825",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 705,
+            "y": 717,
+            "width": 120,
+            "height": 190
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PEARL BEAUTY AER x 150 - 4005900985705",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 294,
+            "y": 329,
+            "width": 47,
+            "height": 145
+          },
+          "region_attributes": {
+            "name": "NIVEA CR Q10 PLUS COLLAGEN REAF ENV x 125 - 4006000011172",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Higiene personal",
+      "marcas": ["Rexona", "Dove", "Nivea"]
+    }

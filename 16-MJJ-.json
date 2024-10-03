@@ -1,0 +1,80 @@
+{
+      "filename": "16-MJJ-.jpeg",
+      "size": 142668,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 41,
+            "y": 434,
+            "width": 266,
+            "height": 158
+          },
+          "region_attributes": {
+            "name": "X-Ray Colágeno Comprimidos - 7798140257196",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 291,
+            "y": 427,
+            "width": 252,
+            "height": 158
+          },
+          "region_attributes": {
+            "name": "X-Ray Colágeno Comprimidos - 7798140257196",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 611,
+            "y": 704,
+            "width": 147,
+            "height": 94
+          },
+          "region_attributes": {
+            "name": "TRIPLE ESCUDO 30 COMP - 7792981004186",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 286,
+            "y": 720,
+            "width": 297,
+            "height": 87
+          },
+          "region_attributes": {
+            "name": "TRIPLE ESCUDO 30 COMP - 7792981004186",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Suplementos y Nutricion",
+      "marcas": [""]
+    }

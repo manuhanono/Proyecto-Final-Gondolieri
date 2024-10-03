@@ -1,5 +1,4 @@
-
-"8-MJJ-.jpeg177200": {
+{
     "filename": "8-MJJ-.jpeg",
     "size": 177200,
     "regions": [
@@ -148,9 +147,6 @@
         }
       }
     ],
-    "file_attributes": {
-      "caption": "",
-      "public_domain": "no",
-      "image_url": ""
-    }
+    "tipo": "Bebes",
+    "marcas": ["Huggies"]
   }

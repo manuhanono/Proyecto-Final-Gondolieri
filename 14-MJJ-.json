@@ -1,0 +1,404 @@
+{
+    "filename": "14-MJJ-.jpeg",
+    "size": 328409,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 203,
+          "y": 827,
+          "width": 106,
+          "height": 143
+        },
+        "region_attributes": {
+          "name": "TRESEMME SERUM BRILLO LAMELAR 12X170ML - 7891150094390",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 316,
+          "y": 1169,
+          "width": 79,
+          "height": 121
+        },
+        "region_attributes": {
+          "name": "TRESEMME AC DETOX CAPILAR ST P 12X500ML - 7791293050263",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 213,
+          "y": 1328,
+          "width": 35,
+          "height": 137
+        },
+        "region_attributes": {
+          "name": "TRESEMME AC DETOX CAPILAR ST P 12X500ML - 7791293050263",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 447,
+          "width": 74,
+          "height": 161
+        },
+        "region_attributes": {
+          "name": "TRESEMME SH ONDAS BOHO ST P 12X500ML - 7791293050195",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 219,
+          "y": 447,
+          "width": 204,
+          "height": 175
+        },
+        "region_attributes": {
+          "name": "TRESEMME AC ONDAS BOHO ST P 12X500ML - 7791293050201",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 262,
+          "y": 636,
+          "width": 115,
+          "height": 172
+        },
+        "region_attributes": {
+          "name": "TRESEMME AC CAUT REPARADOR ST P 12X500ML - 7791293050041",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 144,
+          "y": 631,
+          "width": 122,
+          "height": 159
+        },
+        "region_attributes": {
+          "name": "TRESEMME SH CAUT REPARADOR ST P 12X500ML - 7791293050034",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 133,
+          "y": 1325,
+          "width": 80,
+          "height": 145
+        },
+        "region_attributes": {
+          "name": "TRESEMME AC MATIZ ULTRA ST P 12X500ML - 7791293050300",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 574,
+          "y": 1333,
+          "width": 47,
+          "height": 117
+        },
+        "region_attributes": {
+          "name": "ELVIVE CV PURPLE SH 200ml Arg CM - 7509552815269",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 399,
+          "y": 1314,
+          "width": 174,
+          "height": 146
+        },
+        "region_attributes": {
+          "name": "ELVIVE DREAM LONG LISS SH 200ml - 7509552843071",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 482,
+          "y": 811,
+          "width": 75,
+          "height": 156
+        },
+        "region_attributes": {
+          "name": "ELVIVE DREAM LONG LISS SH 200ml - 7509552843071",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 615,
+          "y": 652,
+          "width": 159,
+          "height": 154
+        },
+        "region_attributes": {
+          "name": "ELVIVE DREAM LONG LISS SH 200ml - 7509552843071",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 642,
+          "y": 829,
+          "width": 151,
+          "height": 161
+        },
+        "region_attributes": {
+          "name": "ELVIVE HA PURE SHAMPOO 200ml ARG CM - 7509552876413",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 426,
+          "y": 637,
+          "width": 200,
+          "height": 182
+        },
+        "region_attributes": {
+          "name": "ELVIVE RT5+ SH 2EN1 400ml KERATIN - 7509552902501",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 658,
+          "y": 1324,
+          "width": 96,
+          "height": 127
+        },
+        "region_attributes": {
+          "name": "ELVIVE COLOR VIVE ACO 400ml Arg CM - 7509552902891",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 765,
+          "y": 1156,
+          "width": 112,
+          "height": 149
+        },
+        "region_attributes": {
+          "name": "DOVE SHAMPOO LARGOS FORTA 12X400ML - 7791293050331",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 783,
+          "y": 994,
+          "width": 105,
+          "height": 154
+        },
+        "region_attributes": {
+          "name": "DOVE SHAMPOO HIDRATACION 12X400ML - 7791293050324",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 795,
+          "y": 821,
+          "width": 84,
+          "height": 164
+        },
+        "region_attributes": {
+          "name": "DOVE SH RECONSTRUCCION 12X400ML - 7791293047102",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 811,
+          "y": 477,
+          "width": 56,
+          "height": 172
+        },
+        "region_attributes": {
+          "name": "DOVE SH NUTRICION 12X400ML - 7791293047164",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 865,
+          "y": 476,
+          "width": 51,
+          "height": 160
+        },
+        "region_attributes": {
+          "name": "DOVE AC NUTRICION 12X400ML - 7791293047515",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 792,
+          "y": 653,
+          "width": 60,
+          "height": 158
+        },
+        "region_attributes": {
+          "name": "DOVE SH REGENERACION 12X400ML - 7791293047171",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "rect",
+          "x": 857,
+          "y": 661,
+          "width": 46,
+          "height": 157
+        },
+        "region_attributes": {
+          "name": "DOVE AC REGENERACION 12X400ML - 7791293047522",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "tipo": "Cuidado capilar",
+    "marcas": ["Dove", "Tresseme", "Loreal"]
+  }

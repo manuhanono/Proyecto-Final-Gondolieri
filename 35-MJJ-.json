@@ -1,0 +1,116 @@
+{
+      "filename": "35-MJJ-.jpeg",
+      "size": 426292,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 437,
+            "y": 409,
+            "width": 89,
+            "height": 160
+          },
+          "region_attributes": {
+            "name": "JOHNSON ACEITE PURO HIPOALERGENICO SOL X100ml - 7790010002943",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 221,
+            "y": 324,
+            "width": 136,
+            "height": 254
+          },
+          "region_attributes": {
+            "name": "AVENO GEL DE BAÑO INFANTIL - 7793742005473",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 758,
+            "y": 633,
+            "width": 139,
+            "height": 221
+          },
+          "region_attributes": {
+            "name": "HUGGIES TH 4EN1 LA SIRENITA ENV x 48 - 7794626013973",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1195,
+            "y": 919,
+            "width": 154,
+            "height": 173
+          },
+          "region_attributes": {
+            "name": "HUGGIES TH CUIDA 4EN1 ENV x 80 - 7794626013980",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 1387,
+            "y": 686,
+            "width": 196,
+            "height": 182
+          },
+          "region_attributes": {
+            "name": "HUGGIES TH PROTECT PLUS ENV x 48 - 7794626013225",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 896,
+            "y": 634,
+            "width": 129,
+            "height": 219
+          },
+          "region_attributes": {
+            "name": "HUGGIES TH RECIEN NACIDO PURO Y NATURAL ENV x 48 - 7794626011092",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Bebes",
+      "marcas": ["Huggies", "Johnson's", "Aveno"]
+    }

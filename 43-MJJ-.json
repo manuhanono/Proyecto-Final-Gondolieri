@@ -1,0 +1,296 @@
+{
+      "filename": "43-MJJ-.png",
+      "size": 866899,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 150,
+            "y": 548,
+            "width": 76,
+            "height": 92
+          },
+          "region_attributes": {
+            "name": "REXONA W DEO AP AER ACT EMO 12X89G/150ML - 7791293049540",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 0,
+            "y": 540,
+            "width": 76,
+            "height": 91
+          },
+          "region_attributes": {
+            "name": "REXONA M DEO AP AER V8 12X89G/150ML - 7791293049489",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 255,
+            "y": 650,
+            "width": 46,
+            "height": 91
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP POMELO 72H 12X87G_150ML - 7791293048482",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 296,
+            "y": 644,
+            "width": 58,
+            "height": 96
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP PERA 72H 12X87G_150ML - 7791293048505",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 254,
+            "y": 756,
+            "width": 37,
+            "height": 86
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP COCO 72H 12X87G_150ML - 7791293048512",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 263,
+            "y": 550,
+            "width": 112,
+            "height": 92
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP INV DRY 72H 12X87G_150ML - 7791293048529",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 292,
+            "y": 758,
+            "width": 90,
+            "height": 85
+          },
+          "region_attributes": {
+            "name": "DOVE DEO AER AP PEPINO 72H 12X87G_150ML - 7791293048475",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 147,
+            "y": 440,
+            "width": 86,
+            "height": 90
+          },
+          "region_attributes": {
+            "name": "REXONA W CLIN AER CLASS 96H 12X91G_150ML - 7506306214989",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 144,
+            "y": 329,
+            "width": 107,
+            "height": 84
+          },
+          "region_attributes": {
+            "name": "REXONA W CL AER REFRE 96H 12DX91G/150ML - 7891150089952",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 67,
+            "y": 329,
+            "width": 80,
+            "height": 83
+          },
+          "region_attributes": {
+            "name": "REXONA M CL AER IN FR 96H 12DX91G_150ML - 7891150089983",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 4,
+            "y": 328,
+            "width": 68,
+            "height": 85
+          },
+          "region_attributes": {
+            "name": "REXONA M CLIN AER CLEAN 96H 12X91G/150ML - 7506306214972",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 2,
+            "y": 442,
+            "width": 150,
+            "height": 85
+          },
+          "region_attributes": {
+            "name": "REXONA M CLIN AER SPORT 96H 12X91G/150ML - 7891150068735",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 374,
+            "y": 549,
+            "width": 84,
+            "height": 100
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT BLACK&WHITE FRESH AER x 150 - 4005900985712",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 398,
+            "y": 445,
+            "width": 67,
+            "height": 83
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM AGUA DE COCO AER x 150 - 4005900985699",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 408,
+            "y": 331,
+            "width": 64,
+            "height": 91
+          },
+          "region_attributes": {
+            "name": "NIVEA ANT FEM PROTECT & CARE AER x 150 - 4005900973795",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 246,
+            "y": 325,
+            "width": 168,
+            "height": 101
+          },
+          "region_attributes": {
+            "name": "DOVE W CLIN DEO CR SOTF SOLID 12X58G - 75079437",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Higiene personal",
+      "marcas": ["Rexona", "Dove", "Nivea"]
+    }

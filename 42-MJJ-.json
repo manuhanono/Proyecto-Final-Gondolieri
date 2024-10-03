@@ -1,0 +1,224 @@
+{
+      "filename": "42-MJJ-.jpeg",
+      "size": 314781,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 544,
+            "y": 485,
+            "width": 107,
+            "height": 213
+          },
+          "region_attributes": {
+            "name": "TRESEMME SERUM BRILLO LAMELAR 12X170ML - 7891150094390",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 643,
+            "y": 533,
+            "width": 73,
+            "height": 150
+          },
+          "region_attributes": {
+            "name": "TRESEMME PROTETOR TERM ANTIFRIZZ 6X120ML - 7791293049694",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 733,
+            "y": 719,
+            "width": 49,
+            "height": 180
+          },
+          "region_attributes": {
+            "name": "TRESEMME SH CAUT REPARADOR ST P 12X500ML - 7791293050034",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 780,
+            "y": 718,
+            "width": 48,
+            "height": 171
+          },
+          "region_attributes": {
+            "name": "TRESEMME AC CAUT REPARADOR ST P 12X500ML - 7791293050041",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 717,
+            "y": 938,
+            "width": 103,
+            "height": 179
+          },
+          "region_attributes": {
+            "name": "TRESEMME AC CAUT REPARADOR ST P 12X500ML - 7791293050041",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 660,
+            "y": 937,
+            "width": 65,
+            "height": 183
+          },
+          "region_attributes": {
+            "name": "TRESEMME SH CAUT REPARADOR ST P 12X500ML - 7791293050034",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 680,
+            "y": 1151,
+            "width": 114,
+            "height": 178
+          },
+          "region_attributes": {
+            "name": "TRESEMME AC MATIZ ULTRA ST P 12X500ML - 7791293050300",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 638,
+            "y": 1371,
+            "width": 98,
+            "height": 182
+          },
+          "region_attributes": {
+            "name": "TRESEMME SH BRILLO LAMELAR P 12X500ML - 7791293049861",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 735,
+            "y": 1411,
+            "width": 53,
+            "height": 118
+          },
+          "region_attributes": {
+            "name": "TRESEMME AC BRILLO LAMELAR P 12X500ML - 7791293049878",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 523,
+            "y": 728,
+            "width": 81,
+            "height": 164
+          },
+          "region_attributes": {
+            "name": "Shampoo Hipoalergénico Dermo Calm - 7792640003468",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 449,
+            "y": 718,
+            "width": 81,
+            "height": 180
+          },
+          "region_attributes": {
+            "name": "Acondicionador Hipoalergénico Dermo Calm - 7792640003475",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 356,
+            "y": 949,
+            "width": 69,
+            "height": 146
+          },
+          "region_attributes": {
+            "name": "Shampoo Ortiga-SecoConcentrado Frasco 420 ml - 7792640007732",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Cuidado Capilar",
+      "marcas": ["Tresseme", "Tio Nacho"]
+    }

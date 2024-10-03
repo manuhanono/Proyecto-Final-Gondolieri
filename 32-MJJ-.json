@@ -1,0 +1,116 @@
+{
+      "filename": "32-MJJ-.jpeg",
+      "size": 296155,
+      "regions": [
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 457,
+            "y": 406,
+            "width": 74,
+            "height": 72
+          },
+          "region_attributes": {
+            "name": "NIVEA CR CELLULAR DIA LIFT ENV x 50 - 4005900713629",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 531,
+            "y": 307,
+            "width": 74,
+            "height": 176
+          },
+          "region_attributes": {
+            "name": "NIVEA CR CELLULAR NOCHE ENV x 50 - 4005900713636",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 546,
+            "y": 1014,
+            "width": 76,
+            "height": 179
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE MICELAR GEL X150 - 4005900773838",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 435,
+            "y": 1036,
+            "width": 83,
+            "height": 162
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE HIDRATANTE CREMA GEL X50 - 4005900806154",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 608,
+            "y": 997,
+            "width": 79,
+            "height": 194
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE LECHE&TONICO MICELAR LIMPIAD ENV x 200 - 4005900773845",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        },
+        {
+          "shape_attributes": {
+            "name": "rect",
+            "x": 501,
+            "y": 1280,
+            "width": 76,
+            "height": 138
+          },
+          "region_attributes": {
+            "name": "NIVEA ROSE CARE AGUA MICELAR ENV x 400 - 4005900773821",
+            "type": "unknown",
+            "image_quality": {
+              "good": true,
+              "frontal": true,
+              "good_illumination": true
+            }
+          }
+        }
+      ],
+      "tipo": "Dermocosmetica",
+      "marcas": ["Nivea"]
+    }
